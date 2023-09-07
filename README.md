@@ -11,7 +11,7 @@ This repository serves as a platform to show my projects and skills, and a way t
 ## Table of contents
 - [About](#about)
 - - [Portfolio Projects](#portfolio-projects)
-	+ [Video Games Sales Analysis](#ab-testing)
+	+ [A/B testing](#ab-testing)
 
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
